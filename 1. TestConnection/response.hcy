@@ -1,0 +1,11 @@
+h2 200
+cache-control: private
+content-type: application/json; charset=utf-8
+server: Microsoft-IIS/10.0
+set-cookie: ASP.NET_SessionId=XXXXXXXXXXXXXXXXXXXXXXXX; path=/; HttpOnly
+x-aspnet-version: 4.0.30319
+x-powered-by: ASP.NET
+date: Fri, 01 Nov 2019 16:54:31 GMT
+content-length: 43
+
+{"ErrorCode":0,"Errors":null,"Result":true}

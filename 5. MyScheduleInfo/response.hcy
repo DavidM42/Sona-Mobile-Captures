@@ -1,0 +1,10 @@
+h2 200
+cache-control: private
+content-type: application/json; charset=utf-8
+server: Microsoft-IIS/10.0
+x-aspnet-version: 4.0.30319
+x-powered-by: ASP.NET
+date: Fri, 01 Nov 2019 16:55:01 GMT
+content-length: 274
+
+{"ErrorCode":0,"Errors":null,"Result":{"course_credits":[],"display_course_credits":true,"display_overall_credits":true,"overall_credits_earned":"Gesamte VPh verdient: 0","overall_credits_needed":"Gesamt-VPh-Anforderungen: 30","study_signups":[],"text_progress_display":""}}

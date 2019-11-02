@@ -1,0 +1,74 @@
+{
+    "ErrorCode": 0,
+    "Errors": null,
+    "Result": {
+        "PI": null,
+        "abstract_text": "Teilnahme ca. 45 min. Geschichten anhören und entspannen. Labortestung beinhaltet physiologische Messungen und Videoaufnahmen",
+        "credits_label": "VPh",
+        "credits_part1_value": "",
+        "credits_part2_value": "",
+        "credits_part3_value": "",
+        "credits_part4_value": "",
+        "credits_total_value": "0.75 VPh",
+        "description_text": "<b>Achtung: Sie können sich nur eintragen, wenn Sie an ⇒<a href=\"https:\/\/psywue.sona-systems.com\/default.aspx?p_return_experiment_id=1586\">Teil 1 dieser Studie<\/a> teilgenommen haben und zum zweiten Teil der Studie eingeladen wurden.<\/b><br><br>\u000d\u000a\u000d\u000aIn diesem Versuch wechseln sich Entspannungsphasen mit dem Anhören auditiv vorgetragener Geschichten ab. Währenddessen erfolgen schmerzfreie physiologische Messungen (Herzrate, Hautleitfähigkeit, Respiration). Außerdem werden Videoaufnahmen Ihrer mimischen Reaktionen aufgezeichnet.<br><br>\u000d\u000a\u000d\u000aDie Untersuchung findet am Zentrum für Mediendidaktik (ZfM) in Raum 007 statt und dauert ca. 45 Minuten. Die Vergütung beträgt bei 0.25 VPh pro 15 Minuten voraussichtlich insgesamt 0.75 VPh (Arbeitseinheit KPNM).<br><br>\u000d\u000a\u000d\u000aWenn Sie eine Einladung für Teil 2 der Studie erhalten haben, tragen Sie sich in einen freien Slot ein, um einen Termin zu vereinbaren. <br><br>\u000d\u000a\u000d\u000a<b>Inhaltliche Fragen und Fragen zur Vergütung<\/b> klären Sie bitte mit der Studienleitung: <br>max mustermann, max.mustermann@uni-wuerzburg.de<br><br>\u000d\u000a\u000d\u000a<b>Bei Fragen zur Terminplanung<\/b> wenden Sie sich an:<br>Max Mustermann, max.mustermann@stud-mail.uni-wuerzburg.de",
+        "display_timeslots_button": false,
+        "display_timeslots_reason": "Does not meet pre-requisite\/disqualifier requirements.",
+        "disqualifier_info": [
+            {
+                "exp_name": "Geschichten & Imagination II - Teil 1",
+                "experiment_id": 1418,
+                "qualifies": true,
+                "qualifies_text": "OK"
+            },
+            {
+                "exp_name": "Geschichten & Imagination II - Teil 2",
+                "experiment_id": 1419,
+                "qualifies": true,
+                "qualifies_text": "OK"
+            }
+        ],
+        "disqualifier_text": "Sie dürfen für folgende Studien NICHT angemeldet sein und KEINE von ihnen abgeschlossen haben:",
+        "duration_part1": "",
+        "duration_part2": "",
+        "duration_part3": "",
+        "duration_part4": "",
+        "duration_total": " 45 Minuten",
+        "eligibility_reqs": "None",
+        "exp_name": "KPNM 0.75 VPh | Geschichten & Imagination III (Teil 2)",
+        "experiment_id": 1588,
+        "invitation_code_text": "Sie müssen über ein spezielles Passwort (Einladungscode) verfügen, um sich für diese Studie anzumelden. Der Forscher sollte Ihnen diesen Code gegeben haben, wenn Sie für die Studie qualifiziert sind.",
+        "multipart_count": 1,
+        "preparation": "⇒Vor dem Termin möglichst nicht stark körperlich anstrengen. ⇒Ungeschminkt sein. ⇒Ggf. Bart stutzen. ⇒Keinen Schmuck\/Piercings. ⇒Bequeme, lockere Kleidung (kein Kleid\/Einteiler, kein Rollkragenpullover).",
+        "prereq_info": [
+            {
+                "exp_name": "KPNM 0.25 VPh | Geschichten & Imagination III (Teil 1)",
+                "experiment_id": 1586,
+                "qualifies": false,
+                "qualifies_text": "Falsch - Anmeldung verboten"
+            }
+        ],
+        "prereq_text": "Sie müssen JEDE dieser Studien abgeschlossen haben:",
+        "researchers": [
+            {
+                "email": "max.mustermann@stud-mail.uni-wuerzburg.de",
+                "first_name": "Max",
+                "full_name": "Max Mustermann",
+                "last_name": "Mustermann",
+                "office": "",
+                "phone": "0999\/00000000"
+            },
+            {
+                "email": "maurice.musterfrau@stud-mail.uni-wuerzburg.de",
+                "first_name": "Maurice Musterfrau",
+                "full_name": "maurice musterfrau maftrikelNr",
+                "last_name": "matrikelNr",
+                "office": "",
+                "phone": "015300000000"
+            }
+        ],
+        "twopart_study_text": "",
+        "website_label": "",
+        "website_link_label": "",
+        "website_link_text": ""
+    }
+}

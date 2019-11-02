@@ -1,0 +1,9 @@
+POST /services/SonaMobileAPI.svc/TestConnection h2
+Host: psywue.sona-systems.com
+accept: application/json
+content-type: application/json
+cache-control: no-cache
+content-length: 0
+accept-encoding: gzip
+user-agent: okhttp/3.11.0
+

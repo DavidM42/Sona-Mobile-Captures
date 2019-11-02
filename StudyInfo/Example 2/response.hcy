@@ -1,0 +1,10 @@
+h2 200
+cache-control: private
+content-type: application/json; charset=utf-8
+server: Microsoft-IIS/10.0
+x-aspnet-version: 4.0.30319
+x-powered-by: ASP.NET
+date: Fri, 01 Nov 2019 16:55:05 GMT
+content-length: 3505
+
+#FOR anonymized response body see response.body.json

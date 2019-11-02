@@ -1,0 +1,6 @@
+GET /custom/customlogo.png h2
+Host: psywue.sona-systems.com
+accept-encoding: gzip
+cookie: ASP.NET_SessionId=XXXXXXXXXXXXXXXXXXXXXXXX
+user-agent: okhttp/3.11.0
+

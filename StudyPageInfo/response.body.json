@@ -1,0 +1,145 @@
+{
+    "ErrorCode": 0,
+    "Errors": null,
+    "Result": {
+        "application_text": "Aktuell laufen bei uns folgende Studien (Onlinestudien sind als solche gekennzeichnet):",
+        "studies": [
+            {
+                "exp_name": "<b>Storytime 6<\/b>",
+                "experiment_id": 1573,
+                "first_line": "11 Euro",
+                "second_line": "",
+                "timeslots_available": true,
+                "web_flag": false
+            },
+            {
+                "exp_name": "KPNM 0.75 VPh | Geschichten & Imagination III (Teil 2)",
+                "experiment_id": 1588,
+                "first_line": "0.75 VPh",
+                "second_line": "",
+                "timeslots_available": true,
+                "web_flag": false
+            },
+            {
+                "exp_name": "-**➡.Go.| 9 € + Gewinne im Versuch**-",
+                "experiment_id": 1512,
+                "first_line": "9 Euro oder 1 VP-Stunde",
+                "second_line": "",
+                "timeslots_available": true,
+                "web_flag": false
+            },
+            {
+                "exp_name": "Psy | Geschichten & Imagination III - Teil 1",
+                "experiment_id": 1585,
+                "first_line": "2,50€ (materiell)\/0,25 VPh",
+                "second_line": "",
+                "timeslots_available": true,
+                "web_flag": true
+            },
+            {
+                "exp_name": "PsyErgo - 1 VP-Stunde - 60 min - HMDLag",
+                "experiment_id": 1577,
+                "first_line": "1 VPh",
+                "second_line": "",
+                "timeslots_available": true,
+                "web_flag": false
+            },
+            {
+                "exp_name": "KPNM 0.25 VPh | Geschichten & Imagination III (Teil 1)",
+                "experiment_id": 1586,
+                "first_line": "0.25 VPh",
+                "second_line": "",
+                "timeslots_available": true,
+                "web_flag": true
+            },
+            {
+                "exp_name": "HCI 0,75 Vph oder 7,50 Euro | Experiment in VR 2",
+                "experiment_id": 1571,
+                "first_line": "0.75 VPh",
+                "second_line": "",
+                "timeslots_available": true,
+                "web_flag": false
+            },
+            {
+                "exp_name": "PsyErgo - 0.75 VPh - Onlinestudie - Experiences with symbolic actions",
+                "experiment_id": 1547,
+                "first_line": "0.75 VPh",
+                "second_line": "",
+                "timeslots_available": true,
+                "web_flag": true
+            },
+            {
+                "exp_name": "The Running Bird",
+                "experiment_id": 1538,
+                "first_line": "1,25 VP-Std. \/ 10 Euro",
+                "second_line": "",
+                "timeslots_available": true,
+                "web_flag": false
+            },
+            {
+                "exp_name": "Rezeption von Kurzvideos \/ MWK 1h",
+                "experiment_id": 1567,
+                "first_line": "1 VPh",
+                "second_line": "",
+                "timeslots_available": true,
+                "web_flag": false
+            },
+            {
+                "exp_name": "40€ bei Stressstudie verdienen! Männer gesucht!",
+                "experiment_id": 1384,
+                "first_line": "40 Euro",
+                "second_line": "",
+                "timeslots_available": true,
+                "web_flag": false
+            },
+            {
+                "exp_name": "Up, Left, Right, Down 2 (neu) (10€)",
+                "experiment_id": 1593,
+                "first_line": "10,00 Euro",
+                "second_line": "",
+                "timeslots_available": true,
+                "web_flag": false
+            },
+            {
+                "exp_name": "MTS 1VPh | 360° vs. TV: Auswirkungen des Klimawandels",
+                "experiment_id": 1594,
+                "first_line": "1 VPh",
+                "second_line": "",
+                "timeslots_available": true,
+                "web_flag": false
+            },
+            {
+                "exp_name": "--- Raucher gesucht! --- 40 Euro! --- Ist virtuelle Realität real?",
+                "experiment_id": 1517,
+                "first_line": "40 Euro",
+                "second_line": "",
+                "timeslots_available": true,
+                "web_flag": false
+            },
+            {
+                "exp_name": "Look at me - MRT Studie",
+                "experiment_id": 1581,
+                "first_line": "25 Euro",
+                "second_line": "",
+                "timeslots_available": true,
+                "web_flag": false
+            },
+            {
+                "exp_name": "Geldgewinn für Schnelle!",
+                "experiment_id": 1563,
+                "first_line": "Min. 4€ bis max. 8€",
+                "second_line": "",
+                "timeslots_available": true,
+                "web_flag": false
+            },
+            {
+                "exp_name": "Simba",
+                "experiment_id": 1591,
+                "first_line": "7 Euro",
+                "second_line": "",
+                "timeslots_available": true,
+                "web_flag": false
+            }
+        ]
+    }
+}

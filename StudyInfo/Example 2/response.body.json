@@ -1,0 +1,97 @@
+{
+    "ErrorCode": 0,
+    "Errors": null,
+    "Result": {
+        "PI": null,
+        "abstract_text": "<b>Eine computergestützte sprachpsychologische Untersuchung.<\/b>",
+        "credits_label": "Bezahlung",
+        "credits_part1_value": "6,50 Euro  (Teil 1)",
+        "credits_part2_value": "4,50 Euro  (Teil 2)",
+        "credits_part3_value": "",
+        "credits_part4_value": "",
+        "credits_total_value": "11 Euro",
+        "description_text": "<u><b>Storytime 6<\/b><\/u><br>\u000d\u000aIn dieser zweiteiligen Untersuchung werden kurze Geschichten gelesen und dazu Fragen gestellt. \u000d\u000aBeide Untersuchungen finden im Labor (Raum 321) im 3. Stock am Röntgenring 10 statt.<br><br>\u000d\u000a\u000d\u000a<font color=\"red\"><b>WICHTIG:<\/b><\/font> Sie müssen bis <b>spätestens 22.11.2019<\/b> am zweiten Teil des Experiment teilgenommen haben.\u000d\u000a<br><br>\u000d\u000a\u000d\u000aVergütung von 1,25 VP-Stunden (nur für Psychologiestudierende) oder 11 € erfolgt <u>nach<\/u> Absolvierung beider Experimente.<br><br>\u000d\u000aSollten Sie Probleme haben, einen Termin für Teil 2 der Studie zu finden, kontaktieren Sie mich bitte unter der unten angegebenen E-Mail-Adresse.\u000d\u000a<br><hr>\u000d\u000a<b>Ansprechpartner:<\/b><br>\u000d\u000amax mustermann (<a href=\"mailto:max.mustermann@stud-mail.uni-wuerzburg.de\">max.mustermann@stud-mail.uni-wuerzburg.de<\/a>)<br><br>\u000d\u000a<b>Zuständiger Betreuer:<\/b><br>\u000d\u000aHeinz Heinzensen<br>\u000d\u000aLehrstuhl für Psychologie IV<br>\u000d\u000aPädagogische Psychologie<br>\u000d\u000aWürzburg",
+        "display_timeslots_button": true,
+        "display_timeslots_reason": "",
+        "disqualifier_info": [
+            {
+                "exp_name": "Storytime!",
+                "experiment_id": 934,
+                "qualifies": true,
+                "qualifies_text": "OK"
+            },
+            {
+                "exp_name": "Storytime 2!",
+                "experiment_id": 935,
+                "qualifies": true,
+                "qualifies_text": "OK"
+            },
+            {
+                "exp_name": "Storytime Reloaded",
+                "experiment_id": 1159,
+                "qualifies": true,
+                "qualifies_text": "OK"
+            },
+            {
+                "exp_name": "***Entdeckungsreise***",
+                "experiment_id": 1455,
+                "qualifies": true,
+                "qualifies_text": "OK"
+            },
+            {
+                "exp_name": "Storytime 5",
+                "experiment_id": 1487,
+                "qualifies": true,
+                "qualifies_text": "OK"
+            },
+            {
+                "exp_name": "Nimm 2! Zwei Studien - 20,-€ - Part 1",
+                "experiment_id": 1552,
+                "qualifies": true,
+                "qualifies_text": "OK"
+            },
+            {
+                "exp_name": "Nimm 2! Zwei Studien - 20,-€ - Part 2",
+                "experiment_id": 1552,
+                "qualifies": true,
+                "qualifies_text": "OK"
+            }
+        ],
+        "disqualifier_text": "Sie dürfen für folgende Studien NICHT angemeldet sein und KEINE von ihnen abgeschlossen haben:",
+        "duration_part1": " 45 minuten (Tiel 1)",
+        "duration_part2": " 30 minuten (Tiel 2)",
+        "duration_part3": "",
+        "duration_part4": "",
+        "duration_total": " 75 Minuten",
+        "eligibility_reqs": "<b><u>Voraussetzungen:<\/u><\/b><ul><li>Teilnahme an Teil 1 und 2<\/li><li>Deutsch als Muttersprache <\/li><li>keine Teilnahme an ausgeschlossenen Experimenten <\/li><li>keine unkorrigierte Sehstörung (Brille oder Kontaktlinsen mitbringen)<\/li><\/ul>",
+        "exp_name": "<b>Storytime 6<\/b>",
+        "experiment_id": 1573,
+        "invitation_code_text": "",
+        "multipart_count": 2,
+        "preparation": "",
+        "prereq_info": [],
+        "prereq_text": "",
+        "researchers": [
+            {
+                "email": "max.mustermann@uni-wuerzburg.de",
+                "first_name": "max",
+                "full_name": "max mustermann",
+                "last_name": "mustermann",
+                "office": "",
+                "phone": ""
+            },
+            {
+                "email": "max.mustermann@stud-mail.uni-wuerzburg.de",
+                "first_name": "max",
+                "full_name": "max mustermann",
+                "last_name": "mustermann",
+                "office": "",
+                "phone": ""
+            }
+        ],
+        "twopart_study_text": "Dies ist eine 2-teilige StudieBoth Parts 1 and 2 should be scheduled at the same time, and Part 2  should be scheduled to occur between 1 and 15 day(s) after Part 1.",
+        "website_label": "",
+        "website_link_label": "",
+        "website_link_text": ""
+    }
+}

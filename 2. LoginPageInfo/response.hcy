@@ -1,0 +1,10 @@
+h2 200
+cache-control: private
+content-type: application/json; charset=utf-8
+server: Microsoft-IIS/10.0
+x-aspnet-version: 4.0.30319
+x-powered-by: ASP.NET
+date: Fri, 01 Nov 2019 16:54:32 GMT
+content-length: 838
+
+{"ErrorCode":0,"Errors":null,"Result":{"at_suffix":"","create_account_enabled":true,"custom_text":"Bitte loggen Sie sich mit den Ihnen zugesendeten Nutzerdaten ein. Falls Sie noch keinen Account für unser System haben, klicken Sie auf den \"Request Account\" Link und füllen Sie das verlinkte Formular aus.<p>Mit freundlichen Grüßen,<\/p><p>die Psychologen und das Institut-Mensch-Computer Medien.<\/p>","email_questions_text":"Bei Fragen schreiben Sie eine Mail an <a href=\"mailto:forsch@psychologie.uni-wuerzburg.de\">forsch@psychologie.uni-wuerzburg.de<\/a>","languages":[{"language_code":"DE","language_display_name":"Deutsch","language_enabled":true}],"logo_url":"https:\/\/psywue.sona-systems.com\/custom\/customlogo.png","lost_password_enabled":true,"num_languages":2,"site_name":"Psychologische Forschung der Uni Würzburg"}}

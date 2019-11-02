@@ -1,0 +1,11 @@
+POST /services/SonaMobileAPI.svc/Authenticate h2
+Host: psywue.sona-systems.com
+accept: application/json
+cache-control: no-cache
+content-type: application/json; charset=utf-8
+content-length: 99
+accept-encoding: gzip
+cookie: ASP.NET_SessionId=XXXXXXXXXXXXXXXXXXXXXXXX
+user-agent: okhttp/3.11.0
+
+{"p_username":"<YourUsername>","p_password":"<YourPassword>","p_language_pref":"DE","p_mobile_version":"2.0"}

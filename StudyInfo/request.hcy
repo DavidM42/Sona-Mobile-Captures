@@ -1,0 +1,11 @@
+POST /services/SonaMobileAPI.svc/GetStudyInfo h2
+Host: psywue.sona-systems.com
+accept: application/json
+cache-control: no-cache
+content-type: application/json; charset=utf-8
+content-length: 76
+accept-encoding: gzip
+cookie: ASP.NET_SessionId=XXXXXXXXXXXXXXXXXXXXXXXX
+user-agent: okhttp/3.11.0
+
+{"p_sessionToken":"XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX","p_experiment_id":1588}

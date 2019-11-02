@@ -1,0 +1,13 @@
+{
+    "ErrorCode": 0,
+    "Errors": null,
+    "Result": {
+        "course_credits": [],
+        "display_course_credits": true,
+        "display_overall_credits": true,
+        "overall_credits_earned": "Gesamte VPh verdient: 0",
+        "overall_credits_needed": "Gesamt-VPh-Anforderungen: 30",
+        "study_signups": [],
+        "text_progress_display": ""
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "ErrorCode": 0,
+    "Errors": null,
+    "Result": {
+        "announcement_display": false,
+        "announcement_name": "Hinweis",
+        "announcement_text": "",
+        "credits_display": true,
+        "credits_earned": 0,
+        "credits_name": "VPh",
+        "credits_needed": 30,
+        "credits_pending": 0,
+        "email_questions_text": "Bei Fragen schreiben Sie eine Mail an <a href=\"mailto:forsch@psychologie.uni-wuerzburg.de\">forsch@psychologie.uni-wuerzburg.de<\/a>",
+        "faq_enabled": false,
+        "logo_url": "https:\/\/psywue.sona-systems.com\/custom\/customlogo.png",
+        "signups": null,
+        "signups_display": false,
+        "signups_name": "Anstehende Termine",
+        "site_name": "Psychologische Forschung der Uni Würzburg",
+        "username_name": "<FirstName> <LastName> <MatrikelNr>",
+        "username_text": "<FirstName> <LastName> <MatrikelNr> (Teilnehmer)",
+        "username_type": "(Teilnehmer)"
+    }
+}
